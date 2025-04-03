@@ -1,0 +1,27 @@
+:root {
+    --bkg: #0F0F0F;
+    --bkg2: #1A1A1A;
+    --title: #f3f3f3;
+    --txt: #e6e6e6;
+    --principal: #F5821F;
+}
+
+* {
+    font-family: "Poppins", sans-serif;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    color: var(--txt);
+}
+
+body {
+    background-color: var(--bkg);
+    display: flex;
+    flex-direction: column;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}

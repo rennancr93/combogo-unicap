@@ -1,0 +1,40 @@
+{
+    "header.nav.home": "Home",
+    "header.nav.about": "About",
+    "header.nav.projects": "Projects",
+    
+    "about.title": "About Combogó",
+    "about.p1": "Combogó is a major extension project of the Digital Games course at the Catholic University of Pernambuco. We work in the fields of Design, Computing, and Games.",
+    "about.p2": "Founded in October 2016, Combogó Unicap is an interactive solutions agency dedicated to developing creative solutions for real-world problems through innovation and ingenuity.",
+    "about.button": "Learn More",
+    "about.card.title": "Projects",
+    
+    "projects.title": "Our Projects",
+    "projects.card.OResgatedeFarya": "The Rescue of Fárya",
+    "projects.card.IlustracoesRPG": "RPG Illustrations",
+    "projects.card.Impressao3DOrgaosHumanos": "3D Printing - Human Organs",
+    "projects.card.MVPFisioterapiaComAR": "MVP - Physiotherapy with AR",
+    "projects.card.TrilhaDasMemorias": "Trail of Memories",
+    "projects.card.Neon": "Neon - A Metaverse Fantasy",
+    "projects.card.Rugido": "Rugido",
+    "projects.card.AnimacaoUnicap": "Safety Animation",
+    "projects.card.UmaAventuraNoNatal": "A Christmas Adventure",
+    "projects.card.CorreAscensinho": "Run, Ascensinho",
+    "projects.card.Projetonovo": "New Project",
+    
+    "projects.categories.Aventura": "Adventure",
+    "projects.categories.RPG": "RPG",
+    "projects.categories.Educacional": "Educational",
+    "projects.categories.Plataforma": "Platform",
+    "projects.categories.App": "App",
+    "projects.categories.Simulacao": "Simulation",
+    "projects.categories.Outro": "Other",
+
+    "footer.address": "Address",
+    "footer.contact": "Contact Us",
+    "footer.email": "Email",
+    "footer.open": "Opening hours",
+
+    "footer.open.hour": "9am",
+    "footer.close.hour": "6pm"
+}

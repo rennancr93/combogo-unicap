@@ -1,0 +1,40 @@
+{
+    "header.nav.home": "Home",
+    "header.nav.about": "Sobre",
+    "header.nav.projects": "Projetos",
+    
+    "about.title": "Sobre a Combogó",
+    "about.p1": "A Combogó é um grande projeto de extensão do curso de Jogos Digitais da Universidade Católica de Pernambuco. Realizamos trabalhos na área de Design, Computação e Jogos.",
+    "about.p2": "Criada em outubro de 2016, a Combogó Unicap é uma agência de soluções interativas que tem como objetivo o desenvolvimento de resoluções criativas para problemas reais, através de inovação e engenhosidade.",
+    "about.button": "Saiba Mais",
+    "about.card.title": "Projetos",
+    
+    "projects.title": "Nossos Projetos",
+    "projects.card.OResgatedeFarya": "O Resgate de Fárya",
+    "projects.card.IlustracoesRPG": "Ilustrações RPG",
+    "projects.card.Impressao3DOrgaosHumanos": "Impressão 3D - Orgãos Humanos",
+    "projects.card.MVPFisioterapiaComAR": "MVP - Fisioterapia com AR",
+    "projects.card.TrilhaDasMemorias": "Trilha das Memórias",
+    "projects.card.Neon": "Neon - Uma Fantaasia do Metaverso",
+    "projects.card.Rugido": "Rugido",
+    "projects.card.AnimacaoUnicap": "Animação de Seguranca",
+    "projects.card.UmaAventuraNoNatal": "Uma Aventura no Natal",
+    "projects.card.CorreAscensinho": "Corre Ascensinho",
+    "projects.card.Projetonovo": "Projeto Novo",
+    
+    "projects.categories.Aventura": "Aventura",
+    "projects.categories.RPG": "RPG",
+    "projects.categories.Educacional": "Educacional",
+    "projects.categories.Plataforma": "Plataforma",
+    "projects.categories.App": "App",
+    "projects.categories.Simulacao": "Simulação",
+    "projects.categories.Outro": "Outro",
+
+    "footer.address": "Endereço",
+    "footer.contact": "Entre em Contato",
+    "footer.email": "Email",
+    "footer.open": "Horário de Funcionamento",
+
+    "footer.open.hour": "9h",
+    "footer.close.hour": "18h"
+}
