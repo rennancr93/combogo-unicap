@@ -73,6 +73,20 @@
     
 }
 
+/*height: 17rem;*/
+
+@media (min-width: 1521px) {
+    .footer .copy {
+        height: 17rem;
+    }
+}
+
+@media (min-width: 2340px) {
+    .footer .copy {
+        height: 11rem;
+    }
+}
+
 @media (max-width: 1486px) {
     .footer {
         padding: 4rem 4rem;
